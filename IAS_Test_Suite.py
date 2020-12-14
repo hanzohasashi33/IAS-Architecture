@@ -1,8 +1,3 @@
-# Author : R.Prasannavenkatesh
-# Rollnumber : IMT2019063
-
-
-
 """
 Template for new test --- add it to the TESTALU class
 def test_testname(self) :
@@ -17,7 +12,7 @@ def test_testname(self) :
 
 import unittest
 from unittest.main import main
-from IMT2019063_IASopcodes import IAS
+from IASopcodes import IAS
 from bitstring import BitStream
 
 
