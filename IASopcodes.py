@@ -1,5 +1,3 @@
-# Author : R.Prasannavenkatesh
-# Rollnumber : IMT2019063
 # implementation of the ias architecture.
 
 from bitstring import BitStream
